@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/carlos0718.github.io/calculadora-de-interes-compuesto/static/css/main.1e7ee24f.css",
-    "main.js": "/carlos0718.github.io/calculadora-de-interes-compuesto/static/js/main.021351b7.js",
-    "static/js/787.e53fc4cf.chunk.js": "/carlos0718.github.io/calculadora-de-interes-compuesto/static/js/787.e53fc4cf.chunk.js",
-    "index.html": "/carlos0718.github.io/calculadora-de-interes-compuesto/index.html",
-    "main.1e7ee24f.css.map": "/carlos0718.github.io/calculadora-de-interes-compuesto/static/css/main.1e7ee24f.css.map",
-    "main.021351b7.js.map": "/carlos0718.github.io/calculadora-de-interes-compuesto/static/js/main.021351b7.js.map",
-    "787.e53fc4cf.chunk.js.map": "/carlos0718.github.io/calculadora-de-interes-compuesto/static/js/787.e53fc4cf.chunk.js.map"
+    "main.css": "/carlos0718.github.io/buildinteres-compuesto/static/css/main.1e7ee24f.css",
+    "main.js": "/carlos0718.github.io/buildinteres-compuesto/static/js/main.21ee55ab.js",
+    "static/js/787.e53fc4cf.chunk.js": "/carlos0718.github.io/buildinteres-compuesto/static/js/787.e53fc4cf.chunk.js",
+    "index.html": "/carlos0718.github.io/buildinteres-compuesto/index.html",
+    "main.1e7ee24f.css.map": "/carlos0718.github.io/buildinteres-compuesto/static/css/main.1e7ee24f.css.map",
+    "main.21ee55ab.js.map": "/carlos0718.github.io/buildinteres-compuesto/static/js/main.21ee55ab.js.map",
+    "787.e53fc4cf.chunk.js.map": "/carlos0718.github.io/buildinteres-compuesto/static/js/787.e53fc4cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e7ee24f.css",
-    "static/js/main.021351b7.js"
+    "static/js/main.21ee55ab.js"
   ]
 }
